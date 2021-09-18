@@ -28,3 +28,5 @@ Plain and useful javascript features that let you create marvelous designs.
    * usage some CSS functions like **linear-gradient()** and **translateY()**;
    * using of **z-index** and **transform** CSS properties;
    * keyboard events(*keydown*, *keyup* and *keypress*) and differences between them.
+   
+   Try it Live in the Sandbox: [JSfiddle](https://jsfiddle.net/realkolos/pv43e7c8/2/).
