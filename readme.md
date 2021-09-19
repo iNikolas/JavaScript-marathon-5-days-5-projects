@@ -30,4 +30,14 @@ Plain and useful javascript features that let you create marvelous designs.
    * keyboard events(*keydown*, *keyup* and *keypress*) and differences between them.
    
    Try it Live in the Sandbox: [JSfiddle](https://jsfiddle.net/realkolos/pv43e7c8/2/) and check [working example](https://inikolas.github.io/JavaScript-marathon-5-days-5-projects/03-slider-sources/).
+4. `04-board-sources` - Hoverboard. Hovering over the board we are getting nice looking colorful effect. Such functionality will let you dynamically generate elements on the page, either repeatable or not.
+   ###### Key skills involved:
+   * dynamical creation of DOM elements with **createElement()** and appending them to the document with **appendChild()** method;
+   * creating well looking CSS animations with **transition** property;
+   * usage of asynchronous functions like **setTimeout()**;
+   * usage of CSS pseudo classes;
+   * working with global *Math object* for generating random values;
+   * template strings.
+
+   Try it Live in the Sandbox: [JSfiddle](https://jsfiddle.net/realkolos/64csguq8/1/) and check [working example](https://inikolas.github.io/JavaScript-marathon-5-days-5-projects/04-board-sources/).
   
