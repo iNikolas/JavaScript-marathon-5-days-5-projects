@@ -30,7 +30,7 @@ Plain and useful javascript features that let you create marvelous designs.
    * keyboard events(*keydown*, *keyup* and *keypress*) and differences between them.
    
    Try it Live in the Sandbox: [JSfiddle](https://jsfiddle.net/realkolos/pv43e7c8/2/) and check [working example](https://inikolas.github.io/JavaScript-marathon-5-days-5-projects/03-slider-sources/).
-4. `04-board-sources` - Hoverboard. Hovering over the board we are getting nice looking colorful effect. Such functionality will let you dynamically generate elements on the page, either repeatable or not.
+4. `04-board-sources` - Hoverboard. Hovering over the board we are getting a nice-looking colorful effect. Such functionality will let you dynamically generate elements on the page, either repeatable or not.
    ###### Key skills involved:
    * dynamical creation of DOM elements with **createElement()** and appending them to the document with **appendChild()** method;
    * creating well looking CSS animations with **transition** property;
@@ -40,4 +40,13 @@ Plain and useful javascript features that let you create marvelous designs.
    * template strings.
 
    Try it Live in the Sandbox: [JSfiddle](https://jsfiddle.net/realkolos/64csguq8/1/) and check [working example](https://inikolas.github.io/JavaScript-marathon-5-days-5-projects/04-board-sources/).
-  
+ 5. `05-aim-game-sources` - Aim training. The Hardest project from the list but the most impressive. It's full-fledged game with few screens like game start, settings and gaming field.
+    ###### Key skills involved:
+    * creating application layout with *flexbox*;
+    * improving user experience using CSS **transition** property;
+    * managing pseudo-multiscreen interfaces with **overflow** CSS property; 
+    * working with DOM elements (creating new elements with **createElement()** document method and using **querySelector()** method to getting existing DOM elements);
+    * dynamical assignment CSS styles and classes in JavaScript;
+    * template strings.
+ 
+    Try it Live in the Sandbox: [JSfiddle](https://jsfiddle.net/realkolos/c0mgn19f/2/) and check [working example](https://inikolas.github.io/JavaScript-marathon-5-days-5-projects/05-aim-game-sources/). 
